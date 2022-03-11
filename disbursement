@@ -1,2 +1,1 @@
-spring.application.name=disbursement
 server.port=8085
